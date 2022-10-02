@@ -1,0 +1,23 @@
+{
+  "name": "pubsub-push-emulator",
+  "version": "0.0.1",
+  "description": "push it!!",
+  "main": "setup.js",
+  "type": "module",
+  "dependencies": {
+    "@google-cloud/pubsub": "^3.1.1",
+    "eslint": "^7.19.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "prettier": "^2.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeldeklint/pubsub-push-emulator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeldeklint/pubsub-push-emulator/issues"
+  },
+  "homepage": "https://github.com/jeldeklint/pubsub-push-emulator#readme"
+}
